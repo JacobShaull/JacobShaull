@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Data Scientist from San Diego</h3>
+<h3 align="center">A  Data Scientist from San Diego</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobshaull" alt="jacobshaull" /></a> </p>
 
