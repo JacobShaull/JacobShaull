@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobshaull" alt="jacobshaull" /></a> </p>
 
-- 🔭 I’m currently working on **My python skills**
+- 🔭 I’m currently working on **My python skills, and a schedule writing site**
 
 - 🌱 I’m currently exploring **Python, SQL, Predictive Modeling**
 
